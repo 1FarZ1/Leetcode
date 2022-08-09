@@ -1,3 +1,5 @@
+## this  a algoritheme to  get the common prefix of a list of string inputs
+
 def longestCommonPrefix(strs):
         x=""
         for i in strs:
