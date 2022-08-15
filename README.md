@@ -1,2 +1,2 @@
 # leetcode_codes
- so this a repo where i post y leet code solution 
+ so this a repo where i post my leet code solution 
