@@ -39,4 +39,4 @@ class Solution:
                 end = mid - 1
             else:
                 return mid
-        return -1
+        return -    
